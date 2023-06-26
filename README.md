@@ -3,7 +3,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="[github-contribution-grid-snake-dark.svg](https://raw.githubusercontent.com/nilesh-iiita/nilesh-iiita/output/github-contribution-grid-snake-dark.svg)" />
   <!-- <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" /> -->
-  <img alt="github-snake" src="github-snake.svg" />
+  <img alt="github-snake" src="github-contribution-grid-snake-dark.svg](https://raw.githubusercontent.com/nilesh-iiita/nilesh-iiita/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 <!--
 **nilesh-iiita/nilesh-iiita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

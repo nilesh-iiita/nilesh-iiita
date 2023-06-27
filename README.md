@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+<!--
 <div class="sd-container-fluid sd-sphinx-override sd-mb-4 docutils">
 <div class="sd-row docutils">
 <div class="sd-col sd-d-flex-column sd-col-1 sd-col-xs-1 sd-col-sm-1 sd-col-md-1 sd-col-lg-1 sd-border-1 docutils">
@@ -30,7 +30,7 @@
 </div>
 </div>
 </div>
-
+-->
 
 [CV](https://nilesh-iiita.github.io/intro.html)
 

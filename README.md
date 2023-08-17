@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![UAB Biological Data Science Core](https://github.com/U-BDS)
+[UAB Biological Data Science Core](https://github.com/U-BDS)
 
 <!--
 <div class="sd-container-fluid sd-sphinx-override sd-mb-4 docutils">

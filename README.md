@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 
-<img src="https://avatars.githubusercontent.com/u/96749609?s=200&v=4" alt="UAB Biological Data Science Core" style="width:50px;"/>
-[UAB Biological Data Science Core](https://github.com/U-BDS)
+<img src="https://avatars.githubusercontent.com/u/96749609?s=200&v=4" alt="UAB Biological Data Science Core" style="width:50px;"/> [UAB Biological Data Science Core](https://github.com/U-BDS)
 
 <!--
 <div class="sd-container-fluid sd-sphinx-override sd-mb-4 docutils">

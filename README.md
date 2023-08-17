@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![UAB Biological Data Science Core](https://avatars.githubusercontent.com/u/96749609?s=200&v=4)
 [UAB Biological Data Science Core](https://github.com/U-BDS)
 
 <!--

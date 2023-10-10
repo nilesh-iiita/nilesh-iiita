@@ -2,6 +2,9 @@
 
 <img src="https://avatars.githubusercontent.com/u/96749609?s=200&v=4" alt="UAB Biological Data Science Core" style="width:20px;"/> [UAB Biological Data Science Core](https://github.com/U-BDS)
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="nileshkumariiita" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/nileshkumariiita?trk=profile-badge">Nilesh Kumar, Ph.D.</a></div>
+              
+
 <!--
 <div class="sd-container-fluid sd-sphinx-override sd-mb-4 docutils">
 <div class="sd-row docutils">

@@ -1,7 +1,8 @@
 <a href="https://stackoverflow.com/users/5036094/nilesh-kumar"><img src="https://stackoverflow.com/users/flair/5036094.png?theme=dark" width="208" height="58" alt="profile for NILESH KUMAR at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for NILESH KUMAR at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="nileshkumariiita" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/nileshkumariiita?trk=profile-badge">Nilesh Kumar, Ph.D.</a></div>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="nileshkumariiita" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/nileshkumariiita?trk=profile-badge">Nilesh Kumar, Ph.D.</a></div>
+              
               
 
 <img src="https://avatars.githubusercontent.com/u/96749609?s=200&v=4" alt="UAB Biological Data Science Core" style="width:20px;"/> [UAB Biological Data Science Core](https://github.com/U-BDS)

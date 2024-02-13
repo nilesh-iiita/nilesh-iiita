@@ -5,7 +5,7 @@
               
               
 
-<img src="https://avatars.githubusercontent.com/u/96749609?s=200&v=4" alt="UAB Biological Data Science Core" style="width:20px;"/> [UAB Biological Data Science Core](https://github.com/U-BDS)
+<img src="https://avatars.githubusercontent.com/u/96749609?s=200&v=4" alt="UAB Biological Data Science Core" style="width:20px;"/> [Ircp-Biological Data Sciences](https://github.com/U-BDS)
 
               
 <!--

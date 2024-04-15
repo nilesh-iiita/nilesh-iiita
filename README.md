@@ -1,11 +1,12 @@
-`<a href="https://stackoverflow.com/users/5036094/nilesh-kumar"><img src="https://stackoverflow.com/users/flair/5036094.png?theme=dark" width="208" height="58" alt="profile for NILESH KUMAR at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for NILESH KUMAR at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+<p><a href="https://www.uab.edu/cores/ircp/bds-about/research-team-ubds"><img src="https://avatars.githubusercontent.com/u/96749609?s=250&v=4" alt="UAB Biological Data Science Core" style="width:3%;"/></a>
+<a href="https://github.com/U-BDS"><img src="https://img.shields.io/badge/UAB-USA?style=for-the-badge&logo=gnubash&logoColor=%23FFD602%09&label=Ircp-Biological%20Data%20Sciences&labelColor=%231E6B52%09&color=%23A69363%09&link=https%3A%2F%2Fgithub.com%2FU-BDS"></a></p>
+
+<a href="https://stackoverflow.com/users/5036094/nilesh-kumar"><img src="https://stackoverflow.com/users/flair/5036094.png?theme=dark" width="208" height="58" alt="profile for NILESH KUMAR at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for NILESH KUMAR at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 <!-- <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="nileshkumariiita" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/nileshkumariiita?trk=profile-badge">Nilesh Kumar, Ph.D.</a></div> -->
               
-<p><a href="https://www.uab.edu/cores/ircp/bds-about/research-team-ubds"><img src="https://avatars.githubusercontent.com/u/96749609?s=250&v=4" alt="UAB Biological Data Science Core" style="width:3%;"/></a>
-<a href="https://github.com/U-BDS"><img src="https://img.shields.io/badge/UAB-USA?style=for-the-badge&logo=gnubash&logoColor=%23FFD602%09&label=Ircp-Biological%20Data%20Sciences&labelColor=%231E6B52%09&color=%23A69363%09&link=https%3A%2F%2Fgithub.com%2FU-BDS"></a></p>
-              
+            
 <!--
 <div class="sd-container-fluid sd-sphinx-override sd-mb-4 docutils">
 <div class="sd-row docutils">

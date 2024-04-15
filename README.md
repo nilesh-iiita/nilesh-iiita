@@ -5,8 +5,7 @@
               
 
        
-width:20px;"/> ![[Ircp-Biological Data Sciences](https://github.com/U-BDS)](https://img.shields.io/badge/UAB-USA?style=for-the-badge&logo=gnubash&logoColor=%23FFD602%09&label=Ircp-Biological%20Data%20Sciences&labelColor=%231E6B52%09&color=%23A69363%09&link=https%3A%2F%2Fgithub.com%2FU-BDS)
-[Ircp-Biological Data Sciences](https://github.com/U-BDS) 
+<img src="https://avatars.githubusercontent.com/u/96749609?s=250&v=4" alt="UAB Biological Data Science Core" style="width:20px;"/> ![[Ircp-Biological Data Sciences](https://github.com/U-BDS)](https://img.shields.io/badge/UAB-USA?style=for-the-badge&logo=gnubash&logoColor=%23FFD602%09&label=Ircp-Biological%20Data%20Sciences&labelColor=%231E6B52%09&color=%23A69363%09&link=https%3A%2F%2Fgithub.com%2FU-BDS)
 
 
               

@@ -3,6 +3,22 @@
 
 <a href="https://stackoverflow.com/users/5036094/nilesh-kumar"><img src="https://stackoverflow.com/users/flair/5036094.png?theme=dark" width="208" height="58" alt="profile for NILESH KUMAR at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for NILESH KUMAR at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
+
+<a
+    id="cy-effective-orcid-url"
+    class="underline"
+     href="https://orcid.org/0000-0001-6095-7902"
+     target="orcid.widget"
+     rel="me noopener noreferrer"
+     style="vertical-align: top">
+     <img
+        src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
+        style="width: 1em; margin-inline-start: 0.5em"
+        alt="ORCID iD icon"/>
+      https://orcid.org/0000-0001-6095-7902
+</a>
+
+
 <!-- <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="nileshkumariiita" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/nileshkumariiita?trk=profile-badge">Nilesh Kumar, Ph.D.</a></div> -->
               

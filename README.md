@@ -18,7 +18,12 @@
       https://orcid.org/0000-0001-6095-7902
 </a>
 
-
+<div>
+  <h4>🏆 Github Profile Trophy</h4>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=nilesh-iiita&column=10"/>
+  </a>
+</div>
 
 
 <!-- <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>

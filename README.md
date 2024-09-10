@@ -21,7 +21,7 @@
 <div>
   <h4>🏆 Github Profile Trophy</h4>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=nilesh-iiita&theme=matrix&column=10&title=-Reviews"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=nilesh-iiita&theme=onedark&column=10&title=-Reviews"/>
   </a>
 </div>
 
@@ -69,6 +69,27 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nilesh-iiita/nilesh-iiita/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
+
+
+<table>
+  <tr>
+    <td>
+      <h3>Single-Cell Technologies</h3>
+      <a href="https://www.10xgenomics.com/platforms/chromium" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/10x_Genomics_logo.svg" alt="10X Chromium Single Cell" width="100" height="40" /><h3>Chromium Single Cell</h3>
+      </a>
+    </td>
+    <td>
+      <h3>Spatial Technologies</h3>
+      <a href="https://www.10xgenomics.com/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/10x_Genomics_logo.svg" alt="10X Visium" width="100" height="40" />
+      </a><h3>10X Visium, 10X Xenium</h3>
+      <a href="https://nanostring.com/" target="_blank" rel="noreferrer">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6XMUWSnW1amzWM0joaXs6gMKBQjUYEmOyNA&s" alt="nanostring" height="40" />
+      </a><h3>GeoMx, CosMx</h3>
+    </td>
+  </tr>
+</table>
 
 
 <!-- Programming Languages -->
@@ -149,118 +170,6 @@
 </td>
   </tr>
 </table>
-
-<!-- <h3>Skills</h3>
-<table>
-  <tr>
-  <td><strong>Programming Languages</strong></td>
-    <td>
-      <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
-      </a>
-    </td>
-    <td>
-      <a href="https://www.r-project.org" target="_blank" rel="noreferrer">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREC93mALVZOfrNonlHxyvt8ljWQKpP-Q6nCQ&s" alt="R" width="40" height="40" />
-      </a>
-    </td>
-    <td>
-      <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
-      </a>
-    </td>
-    <td>
-      <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" />
-      </a>
-    </td>
-    <td>
-      <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40" />
-      </a>
-    </td>
-    <td><strong> Web Development</strong></td>
-    <td>
-      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-      </a>
-    </td>
-    <td>
-      <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-        <img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" alt="django" width="40" height="40" />
-      </a>
-    </td>
-    <td>
-      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
-      </a>
-    </td>
-    <td>
-    Tools
-    </td>
-    <td>
-      <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
-      </a>
-    </td>
-    <td>
-      <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-      </a>
-    </td>
-    <td>
-      <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
-      </a>
-    </td>
-    <td><strong>Databases</strong></td>
-    <td>
-      <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40" />
-      </a>
-    </td>
-    <td>
-      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" />
-      </a>
-    </td>
-    <td>
-      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
-      </a>
-    </td>
-    <td><strong>Data Science</strong></td>
-    <td>
-      <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" />
-      </a>
-    </td>
-    <td>
-      <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn"  />
-      </a>
-    </td>
-    <td>
-      <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" />
-      </a>
-    </td>
-    <td>
-      <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter"/>
-      </a>
-    </td>
-  </tr>
-</table> -->
-
-
-
-
-
-
-
-
-
 
 <!--
 **nilesh-iiita/nilesh-iiita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -77,12 +77,12 @@
   <tr>
     <td>
       <h3><a href="https://www.10xgenomics.com/platforms/chromium" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/10x_Genomics_logo.svg" alt="10X Chromium Single Cell" width="100" height="40" /><br><h3>Chromium Single Cell</h3>
-      </a>Single-Cell Technologies</h3>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/10x_Genomics_logo.svg" alt="10X Chromium Single Cell" width="100" height="40" /><a><br>Chromium Single Cell</h3>
+      <h3>Single-Cell Technologies</h3>
     </td>
     <td>
       <h3><a href="https://www.10xgenomics.com/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/10x_Genomics_logo.svg" alt="10X Visium" width="100" height="40" /></a><br>Spatial Technologies</h3>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/10x_Genomics_logo.svg" alt="10X Visium" width="100" height="40" /><a><br>Spatial Technologies</h3>
       <h3>10X Visium, 10X Xenium</h3>
     </td>
     <td>

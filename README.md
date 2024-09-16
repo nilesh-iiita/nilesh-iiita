@@ -1,7 +1,7 @@
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-bioinfo-red)](https://www.youtube.com/@NILESHKUMARbioinfo)
 [![Linkedin Badge](https://img.shields.io/badge/-Nilesh%20Kumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nileshkumariiita/)](https://www.linkedin.com/in/nileshkumariiita/)
-[![Linkedin Badge](https://img.shields.io/badge/-Nilesh%20Kumar-white?style=flat-square&logo=ORCID&logoColor=#A6CE39&link=https://orcid.org/0000-0001-6095-7902)](https://orcid.org/0000-0001-6095-7902/)
+[![ORCID](https://img.shields.io/badge/-Nilesh%20Kumar-A6CE39?style=flat-square&logo=ORCID&logoColor=#0000FF,&link=https://orcid.org/0000-0001-6095-7902)](https://orcid.org/0000-0001-6095-7902/)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Nilesh-Kumar-14)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Nilesh%20Kumar-yellow)](https://stackoverflow.com/users/5036094/nilesh-kumar-p-hd)
 

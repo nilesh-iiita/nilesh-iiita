@@ -76,19 +76,19 @@
 <table>
   <tr>
     <td>
-      <h3>Single-Cell Technologies</h3>
-      <a href="https://www.10xgenomics.com/platforms/chromium" target="_blank" rel="noreferrer">
+      <h3><a href="https://www.10xgenomics.com/platforms/chromium" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/10x_Genomics_logo.svg" alt="10X Chromium Single Cell" width="100" height="40" /><h3>Chromium Single Cell</h3>
-      </a>
+      </a>Single-Cell Technologies</h3>
     </td>
     <td>
-      <h3>Spatial Technologies</h3>
-      <a href="https://www.10xgenomics.com/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/10x_Genomics_logo.svg" alt="10X Visium" width="100" height="40" />
-      </a><h3>10X Visium, 10X Xenium</h3>
-      <a href="https://nanostring.com/" target="_blank" rel="noreferrer">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6XMUWSnW1amzWM0joaXs6gMKBQjUYEmOyNA&s" alt="nanostring" height="40" />
-      </a><h3>GeoMx, CosMx</h3>
+      <h3><a href="https://www.10xgenomics.com/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/10x_Genomics_logo.svg" alt="10X Visium" width="100" height="40" /></a><br>Spatial Technologies</h3>
+      <h3>10X Visium, 10X Xenium</h3>
+    </td>
+    <td>
+      <h3><a href="https://nanostring.com/" target="_blank" rel="noreferrer">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6XMUWSnW1amzWM0joaXs6gMKBQjUYEmOyNA&s" alt="nanostring" height="40" /></a><br>Spatial Technologies</h3>
+      <h3>GeoMx, CosMx</h3>
     </td>
   </tr>
 </table>

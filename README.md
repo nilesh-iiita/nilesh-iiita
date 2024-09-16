@@ -1,22 +1,20 @@
+
+[![YouTube Badge](https://img.shields.io/badge/YouTube-bioinfo-red)](https://www.youtube.com/@NILESHKUMARbioinfo)
+[![Linkedin Badge](https://img.shields.io/badge/-Nilesh%20Kumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nileshkumariiita/)](https://www.linkedin.com/in/nileshkumariiita/)
+[![Linkedin Badge](https://img.shields.io/badge/-Nilesh%20Kumar-white?style=flat-square&logo=ORCID&logoColor=#A6CE39&link=https://orcid.org/0000-0001-6095-7902)](https://orcid.org/0000-0001-6095-7902/)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Nilesh-Kumar-14)
+[![Website Badge](https://img.shields.io/badge/StackOverflow-Nilesh%20Kumar-yellow)](https://stackoverflow.com/users/5036094/nilesh-kumar-p-hd)
+
+<!-- https://ileriayo.github.io/markdown-badges/ -->
+<!-- https://badges.pages.dev/ -->
+
 <p><a href="https://www.uab.edu/cores/ircp/bds-about/research-team-ubds"><img src="https://avatars.githubusercontent.com/u/96749609?s=250&v=4" alt="UAB Biological Data Science Core" style="width:3%;"/></a>
 <a href="https://github.com/U-BDS"><img src="https://img.shields.io/badge/UAB-USA?style=for-the-badge&logo=gnubash&logoColor=%23FFD602%09&label=Ircp-Biological%20Data%20Sciences&labelColor=%231E6B52%09&color=%23A69363%09&link=https%3A%2F%2Fgithub.com%2FU-BDS" style="hight:3%;"></a></p>
 
 <a href="https://stackoverflow.com/users/5036094/nilesh-kumar"><img src="https://stackoverflow.com/users/flair/5036094.png?theme=dark" width="208" height="58" alt="profile for NILESH KUMAR at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for NILESH KUMAR at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 
-<a
-    id="cy-effective-orcid-url"
-    class="underline"
-     href="https://orcid.org/0000-0001-6095-7902"
-     target="orcid.widget"
-     rel="me noopener noreferrer"
-     style="vertical-align: top">
-     <img
-        src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
-        style="width: 1em; margin-inline-start: 0.5em"
-        alt="ORCID iD icon"/>
-      https://orcid.org/0000-0001-6095-7902
-</a>
+
 
 <div>
   <h4>🏆 Github Profile Trophies</h4>
@@ -168,6 +166,13 @@
 </a>
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter" width="40" height="40" />
+</a>
+</td>
+<td>
+<!-- Data Science -->
+<h3>High performance <br>computing <br>(HPC) </h3>
+<a href="https://docs.rc.uab.edu/" target="_blank" rel="noreferrer">
+    <img src="https://rc.uab.edu/public/logo.svg" alt="tensorflow" width="40" height="40" />
 </a>
 </td>
   </tr>
